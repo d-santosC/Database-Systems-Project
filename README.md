@@ -1,4 +1,4 @@
-# 🚗 Rent-a-Car Management System  
+# Rent-a-Car Management System  
 ### Database Systems – Web Application (JSP + MySQL)
 ### Sistemas de Bases de Dados – ISEL
 
@@ -8,7 +8,7 @@ It supports multiple user roles and implements transactional and analytical oper
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 The system was developed in two main phases:
 
@@ -27,7 +27,7 @@ The final result is a role-based web platform that allows managing:
 
 ---
 
-## 🧠 Database Design
+## Database Design
 
 The database schema was refined and improved during development, including:
 
@@ -54,7 +54,7 @@ The system ensures:
 
 ---
 
-## 👥 User Roles & Functionalities
+## User Roles & Functionalities
 
 ### 🛠 Administrator
 - Manage clients  
@@ -62,34 +62,34 @@ The system ensures:
 - Import/Export JSON data  
 - Full database control  
 
-### 👤 Client
+### Client
 - Reserve vehicles  
 - Select vehicle type & model  
 - Choose parking location  
 - Apply discount coupons  
 - View reservation status  
 
-### 🚘 Driver (Condutor)
+### Driver (Condutor)
 - Pick up vehicles  
 - Deliver vehicles  
 - Register kilometers  
 - Leave optional feedback  
 
-### 👨‍💼 Employee (Funcionário)
+### Employee (Funcionário)
 - Assign vehicles to reservations  
 - Locate vehicles in parking lots  
 - Register vehicle interventions  
 - Access client records  
 - Check client reputation  
 
-### 👔 Manager (Gerente)
+### Manager (Gerente)
 - View vehicle history  
 - Access performance rankings  
 - Analyze usage data  
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - Java (JDK 21)
 - JavaServer Pages (JSP)
@@ -102,7 +102,7 @@ The system ensures:
 
 ---
 
-## 🔄 Data Import & Export
+## Data Import & Export
 
 The system supports:
 
@@ -112,7 +112,7 @@ The system supports:
 
 ---
 
-## 🏗 Architecture Highlights
+## Architecture Highlights
 
 - Multi-role access system  
 - Separation between business logic and database  
@@ -122,7 +122,7 @@ The system supports:
 
 ---
 
-## 📈 What I Learned
+## What I Learned
 
 - Designing and evolving relational schemas  
 - Managing complex foreign key dependencies  
@@ -133,7 +133,7 @@ The system supports:
 
 ---
 
-## 🔮 Possible Improvements
+## Possible Improvements
 
 - Secure authentication system  
 - Password encryption  
